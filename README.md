@@ -37,5 +37,9 @@ My craft is as follows:
 
 ### My GitHub stats
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="teddylumidi's github stats" src="https://github-readme-stats.vercel.app/api?username=teddylumidi&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
-
+<br/>
+<br/>
+<a href="https://github.com/teddylumidi/github-readme-activity-graph"><img alt="Teddy Lumidi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TeddyLumidibg_color=0D1117&color/5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<br/>
+<br/>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
