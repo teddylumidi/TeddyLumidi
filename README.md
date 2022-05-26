@@ -41,3 +41,17 @@ My craft is as follows:
 
 <br/>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
+
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=teddylumidi">
+</a>
+<a href="https://github.com/teddylumidi?tab=followers"><img src="https://img.shields.io/github/followers/teddylumidi?label=Followers&style=social" alt="GitHub Badge"></a>
