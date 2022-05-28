@@ -50,6 +50,7 @@ My craft is as follows:
 <a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://support.discord.com/hc/en-us/profiles/6392894313623/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 <a href="https://hashnode.com/@TeddyLumidi%22https://img.icons8.com/fluent/48/000000/linkedin.png%22/%3E%3C/a%3E/"><img src="https://img.icons8.com/fluent/48/000000/hashnode.png"/></a>
+</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
