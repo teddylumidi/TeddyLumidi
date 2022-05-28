@@ -48,8 +48,7 @@ My craft is as follows:
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.discord.com/in/lumidi254/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-</p>
+<a href="https://support.discord.com/hc/en-us/profiles/6392894313623/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 
 ## ❤ Views and Followers
