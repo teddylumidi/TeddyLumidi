@@ -49,6 +49,8 @@ My craft is as follows:
 <p align="left">
 <a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
+<p align="left">
+ <a href="https://www.discord.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
