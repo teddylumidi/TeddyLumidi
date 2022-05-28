@@ -48,7 +48,7 @@ My craft is as follows:
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.discord.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href="https://www.discord.com/in/lumidi254/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 </p>
 
 
