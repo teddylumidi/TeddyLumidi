@@ -4,7 +4,7 @@ A Full Stack Web Developer delivering splendid IT solusions and related services
 
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
-* **Backend**: NodeJS, PHP, C#, SQL
+* **Backend**: NodeJS, PHP,SQL
 * **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure
 
 
