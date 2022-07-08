@@ -7,7 +7,6 @@ My craft is as follows:
 * **Backend**: NodeJS, PHP,SQL
 * **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure
 
-
 **🔭 My goal is to become a Devops engineer and a Cybersecurity engineer** <br/>
 **🌱 I’m currently learning Blockchain technologies,Web3, Metaverse and Angular JS**<br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
@@ -45,7 +44,7 @@ My craft is as follows:
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<a href="https://app.daily.dev/lumidi254"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=nzm" width="230" alt="Teddy Lumidi's Dev Card"/></a>
+<a href="https://app.daily.dev/lumidi254"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=nzm" width="400" alt="Teddy Lumidi's Dev Card"/></a>
 <br/>
 
 ## Connect with me:
