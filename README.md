@@ -41,7 +41,7 @@ My craft is as follows:
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
 
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br/>
 
 <br/>
 <a href="https://app.daily.dev/lumidi254"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=nzm" width="400" alt="Teddy Lumidi's Dev Card"/></a>
