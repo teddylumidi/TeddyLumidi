@@ -28,6 +28,9 @@ My craft is as follows:
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json"><img src="https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json" alt="Json" data-canonical-src="https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python" alt="Python" data-canonical-src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python" style="max-width: 100%;"></a>
 </p>
+<br/>
+<a href="https://app.daily.dev/lumidi254"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=qfq" width="400" alt="Teddy Lumidi's Dev Card"/></a>
+<br/>
 
 ### In progress
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6b25b5540b1fe0cfa35808019df5a2dc015d778f4e43c7dc9b184eafd9e81248/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6b25b5540b1fe0cfa35808019df5a2dc015d778f4e43c7dc9b184eafd9e81248/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/node.js-%234ea94b.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
