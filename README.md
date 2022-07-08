@@ -37,14 +37,16 @@ My craft is as follows:
 
 ### My GitHub stats
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="teddylumidi's github stats" src="https://github-readme-stats.vercel.app/api?username=teddylumidi&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
-<a href="https://app.daily.dev/lumidi254"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=nzm" width="230" alt="Teddy Lumidi's Dev Card"/></a>
 <br/>
-
 <br/>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
 
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<a href="https://app.daily.dev/lumidi254"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=nzm" width="230" alt="Teddy Lumidi's Dev Card"/></a>
+<br/>
 
 ## Connect with me:
 <p align="left">
