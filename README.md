@@ -1,7 +1,7 @@
 ### Yo 👋, I am Teddy Lumidi. <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=teddylumidi" alt="visitor badge"/></p>
 <!-- 
 A Full Stack Web Developer delivering splendid IT solusions and related services across the globe. Specializing in Javascript, Python, BlockChain technologies, Cybersecurity and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
-
+<a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=m2w" width="400" alt="Teddy Lumidi's Dev Card"/></a>
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
 * **Backend**: NodeJS, PHP,SQL
@@ -16,9 +16,6 @@ My craft is as follows:
 <!-- - 😄 Live now: ...
 - ⚡ Fun fact: 
 **👯⚡ I’m here to learn something new everyday**<br/>
-<td>
-<a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=w8h" width="300" alt="Teddy Lumidi's Dev Card"/></a>
-</td>
 
 ... -->
 
