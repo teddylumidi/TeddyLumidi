@@ -3,8 +3,10 @@
 <table>
 <tr>
 <td valign="center">
-A Full Stack Web Developer delivering splendid IT solutions and related services across the globe. Specializing in Javascript, Python, BlockChain technologies, Cybersecurity and Machine Learning. Professional experience working with Angular, Python and Typescript.  --> <br/>
-<a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=m2w" width="300" alt="Teddy Lumidi's Dev Card"/></a> <br/>
+A Full Stack Web Developer delivering splendid IT solutions and related services across the globe. Specializing in Javascript, Python, BlockChain technologies, Cybersecurity and Machine Learning. Professional experience working with Angular, Python and Typescript.  --> 
+<br/>
+<a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=m2w" style="text-align:left width="300" alt="Teddy Lumidi's Dev Card"/></a>
+<br/>
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
 * **Backend**: NodeJS, PHP,SQL
