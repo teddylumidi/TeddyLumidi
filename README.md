@@ -16,6 +16,9 @@ My craft is as follows:
 <!-- - 😄 Live now: ...
 - ⚡ Fun fact: 
 **👯⚡ I’m here to learn something new everyday**<br/>
+<td>
+<a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=w8h" width="400" alt="Teddy Lumidi's Dev Card"/></a>
+</td>
 ... -->
 
 ### My Skills
