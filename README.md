@@ -2,6 +2,21 @@
 <!-- 
 <table>
 <tr>
+  <td valign="center">
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+    🌱 I am currently learning **Java** and also interested in **Web Development**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**.
+<td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+  </td>
+</tr>
+</table>
+
+
+<table>
+<tr>
 <td valign="center">
 A Full Stack Web Developer delivering splendid IT solutions and related services across the globe. Specializing in Javascript, Python, BlockChain technologies, Cybersecurity and Machine Learning. Professional experience working with Angular, Python and Typescript.  --> <br/>
 <a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=m2w" width="300" alt="Teddy Lumidi's Dev Card"/></a> <br/>
