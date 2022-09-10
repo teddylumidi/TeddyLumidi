@@ -11,13 +11,12 @@ My craft is as follows:
 **🌱 I’m currently learning Blockchain technologies,Web3, Metaverse and Angular JS**<br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 **📫 How to reach me: lumiditeddy@gmail.com**<br/>
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Live now: ...
-- ⚡ Fun fact: 
+ 🤔 I’m looking for help with ...Open Source Projects
+ 💬 Ask me about ... Web Development.
+⚡ Fun fact: 
 **👯⚡ I’m here to learn something new everyday**<br/>
 
-... -->
+...
 
 ### My Skills
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
