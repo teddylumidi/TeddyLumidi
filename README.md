@@ -11,8 +11,8 @@ My craft is as follows:
 **🌱 I’m currently learning Blockchain technologies,Web3, Metaverse and Angular JS**<br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 **📫 How to reach me: lumiditeddy@gmail.com**<br/>
- 🤔 I’m looking for help with ...Open Source Projects
- 💬 Ask me about ... Web Development.
+ 🤔 I’m looking for help with ...Open Source Projects <br/>
+ 💬 Ask me about ... Web Development.<br/>
 ⚡ Fun fact: 
 **👯⚡ I’m here to learn something new everyday**<br/>
 
