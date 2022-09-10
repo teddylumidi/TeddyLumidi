@@ -43,6 +43,7 @@ My craft is as follows:
 
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br/>
+<a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=5uk" width="400" alt="Teddy Lumidi's Dev Card"/></a><br/>
 
 ## Connect with me:
 <p align="left">
