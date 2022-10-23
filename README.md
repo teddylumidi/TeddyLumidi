@@ -6,7 +6,7 @@ My craft is as follows:
 * **Backend**: NodeJS, PHP,SQL
 * **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure
 
-**🔭 My goal is to become a Devops engineer and a Cybersecurity engineer** <br/>
+**🔭 My goal is to become a Data Scientist and a Cybersecurity engineer** <br/>
 **🌱 I’m currently learning Blockchain technologies,Web3, Metaverse and Angular JS**<br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 **📫 How to reach me: lumiditeddy@gmail.com**<br/>
