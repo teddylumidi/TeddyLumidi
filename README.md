@@ -1,5 +1,5 @@
 ### Yo 👋, I am Teddy Lumidi. <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=teddylumidi" alt="visitor badge"/></p> 
-A Full Stack Web Developer delivering splendid IT solutions and related services across the globe. Specializing in Javascript, Python, BlockChain technologies, Cybersecurity and Machine Learning. Professional experience working with Angular, Python and Typescript.
+I am a hobbist interested in life long continous tech journey
 
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
