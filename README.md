@@ -1,4 +1,4 @@
-### Yo 👋, I am Teddy Lumidi. <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=teddylumidi" alt="visitor badge"/></p> 
+### Yo 👋, I am Teddy Lumidi.
 I am a hobbist interested in life long continous tech journey
 
 My craft is as follows:
