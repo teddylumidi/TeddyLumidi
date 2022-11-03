@@ -2,7 +2,7 @@
 [ https://lumidi.netlify.app/ ] <br/>
 I am a hobbist interested in life long continous tech journey
 <h3 align="center">🌐 Web Developer ✍️ Blogger ✈️ Vlogger </h3>
-�
+<br/>
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
 * **Backend**: NodeJS, PHP,SQL
