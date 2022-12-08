@@ -10,8 +10,8 @@ My craft is as follows:
 
 **🔭 My goal is to become a Data Scientist and a Cybersecurity engineer** <br/>
 **🌱 I’m currently learning **Artificial Intelligence**<br/>
-**👨‍💻 All of my projects are available [here](https://lumidi.netlify.app/)** <br/>
-**📝 I regularly write articles on my [blog](https://lumiditeddy.wordpress.com/category/tech-articles/)** <br/>
+**👨‍💻 All of my projects are available [here](COMING SOON!!!!)** <br/>
+**📝 I regularly write articles on my [blog](COMING SOON!!!!)** <br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 **📫 How to reach me: lumiditeddy@gmail.com**<br/>
  🤔 I’m looking for help with ...Open Source Projects <br/>
