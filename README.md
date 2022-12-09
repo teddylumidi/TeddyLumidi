@@ -1,5 +1,5 @@
 ### Yo 👋, I am Teddy Lumidi.
-[ https://lumidi.netlify.app/ ] <br/>
+[WEBSITE COMING SOON] <br/>
 I am a hobbist interested in life long continous tech journey
 <h3 align="center">🌐 Web Developer ✍️ Blogger ✈️ Vlogger </h3>
 <br/>
