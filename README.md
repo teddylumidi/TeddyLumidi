@@ -3,10 +3,10 @@
 I am a hobbist interested in life long continous tech journey
 <h3 align="center">🤖 AI Consultant ✍️ Blogger ✈️ Vlogger </h3>
 <br/>
-My craft is as follows: <br/>
-* **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON <br/>
-* **Backend**: NodeJS, PHP,SQL <br/>
-* **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure <br/>
+
+
+
+
 
 **🔭 Data Analyst and AI Consultant** <br/>
 **🌱 I’m currently learning **Prompts**<br/>
