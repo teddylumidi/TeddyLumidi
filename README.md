@@ -1,21 +1,21 @@
 ### Yo 👋, I am Teddy Lumidi.
 [WEBSITE COMING SOON] <br/>
 I am a hobbist interested in life long continous tech journey
-<h3 align="center">🌐 Web Developer ✍️ Blogger ✈️ Vlogger </h3>
+<h3 align="center">🤖 AI Consultant ✍️ Blogger ✈️ Vlogger </h3>
 <br/>
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
 * **Backend**: NodeJS, PHP,SQL
 * **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure
 
-**🔭 My goal is to become a Data Scientist and a Cybersecurity engineer** <br/>
-**🌱 I’m currently learning **Artificial Intelligence**<br/>
+**🔭 Data Analyst and AI Consultant** <br/>
+**🌱 I’m currently learning **Prompts**<br/>
 **👨‍💻 All of my projects are available [here](COMING SOON!!!!)** <br/>
 **📝 I regularly write articles on my [blog](COMING SOON!!!!)** <br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 **📫 How to reach me: lumiditeddy@gmail.com**<br/>
  🤔 I’m looking for help with ...Open Source Projects <br/>
- 💬 Ask me about ... Web Development.<br/>
+ 💬 Ask me about ... Artificial Intelligence.<br/>
 ⚡ Fun fact: 
 **👯⚡ I’m here to learn something new everyday**<br/>
 
