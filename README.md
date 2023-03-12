@@ -3,11 +3,11 @@
 I am a hobbist interested in life long continous tech journey
 <h3 align="center">🤖 AI Consultant ✍️ Blogger ✈️ Vlogger </h3>
 <br/>
-My craft is as follows:
+My craft is as follows: <br/>
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON <br/>
 * **Backend**: NodeJS, PHP,SQL <br/>
-* **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure
-<br/>
+* **Cloud Computing**: Amazon Web Services, Google Cloud Platform , Microsoft Azure <br/>
+
 **🔭 Data Analyst and AI Consultant** <br/>
 **🌱 I’m currently learning **Prompts**<br/>
 **👨‍💻 All of my projects are available [here](COMING SOON!!!!)** <br/>
@@ -51,8 +51,8 @@ My craft is as follows:
 <p align="left">
 <a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://support.discord.com/hc/en-us/profiles/6392894313623/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href="https://stackoverflow.com/users/11455861/teddy-lumidi?tab=profile/"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
-</p>
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
