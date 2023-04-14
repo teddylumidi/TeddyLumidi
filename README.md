@@ -8,7 +8,7 @@ I am a hobbist interested in life long continous tech journey
 
 
 
-**🔭 Data Analyst and AI Consultant** <br/>
+**🔭 Creator, Designer and Developer** <br/>
 **🌱 I’m currently learning **Prompts**<br/>
 **👨‍💻 All of my projects are available [here](COMING SOON!!!!)** <br/>
 **📝 I regularly write articles on my [blog](COMING SOON!!!!)** <br/>
