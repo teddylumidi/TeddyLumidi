@@ -1,7 +1,7 @@
 ### Yo 👋, I am Teddy Lumidi.
 [WEBSITE COMING SOON] <br/>
 I am a hobbist interested in life long continous tech journey
-<h3 align="center">🤖 AI Consultant ✍️ Blogger ✈️ Vlogger </h3>
+<h3 align="center">🤖 Creator  ✍️ Designer ✈️ Developer </h3>
 <br/>
 
 
