@@ -3,22 +3,17 @@
 I am a hobbist interested in life long continous tech journey
 <h3 align="center">🤖 Creator  ✍️ Designer ✈️ Developer </h3>
 <br/>
+🔭 Creator, Designer and Developer <br/>
+**🌱 I’m currently learning Prompts<br/>
+👨‍💻 All of my projects are available at <a href="https://teddylumidi.github.io/personal_portfolio-develop" target="_blank">"https://teddylumidi.github.io/personal_portfolio-develop"</a> /<br/>
 
-
-
-
-
-**🔭 Creator, Designer and Developer** <br/>
-**🌱 I’m currently learning **Prompts**<br/>
-**👨‍💻 All of my projects are available at "https://teddylumidi.github.io/personal_portfolio-develop"</a> /<br/>
-
-**📝 I regularly write articles on my [blog](COMING SOON!!!!)** <br/>
+📝 I regularly write articles on my [blog](COMING SOON!!!!) <br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
-**📫 How to reach me: lumiditeddy@gmail.com**<br/>
- 🤔 I’m looking for help with ...Open Source Projects <br/>
- 💬 Ask me about ... Artificial Intelligence.<br/>
-⚡ Fun fact: 
-**👯⚡ I’m here to learn something new everyday**<br/>
+📫 How to reach me: lumiditeddy@gmail.com<br/>
+🤔 I’m looking for help with ...Open Source Projects <br/>
+💬 Ask me about ... Artificial Intelligence.<br/>
+⚡ Fun fact:
+👯⚡ I’m here to learn something new everyday<br/>
 
 ...
 
