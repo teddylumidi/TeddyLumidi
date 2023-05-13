@@ -11,7 +11,7 @@ I am a hobbist interested in life long continous tech journey
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 📫 How to reach me: lumiditeddy@gmail.com<br/>
 🤔 I’m looking for help with ...Open Source Projects <br/>
-💬 Ask me about ... Artificial Intelligence.<br/>
+💬 Ask me about ... Web Development and Data Science.<br/>
 ⚡ Fun fact:
 👯⚡ I’m here to learn something new everyday<br/>
 
