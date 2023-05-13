@@ -10,7 +10,7 @@ I am a hobbist interested in life long continous tech journey
 
 **🔭 Creator, Designer and Developer** <br/>
 **🌱 I’m currently learning **Prompts**<br/>
-**👨‍💻 All of my projects are available [here](COMING SOON!!!!)** <br/>
+**👨‍💻 All of my projects are available at https://teddylumidi.github.io/personal_portfolio-develop/<br/>
 **📝 I regularly write articles on my [blog](COMING SOON!!!!)** <br/>
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 **📫 How to reach me: lumiditeddy@gmail.com**<br/>
