@@ -43,12 +43,6 @@ I am a hobbist interested in life long continous tech journey
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br/>
 <a href="https://app.daily.dev/teddylumidi"><img src="https://api.daily.dev/devcards/6aeaec5e679a4ad3bcad6baafe29d471.png?r=5uk" width="300" alt="Teddy Lumidi's Dev Card"/></a><br/>
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://[support.discord.com/hc/en-us/profiles/6392894313623/](https://discord.com/channels/@me)"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
