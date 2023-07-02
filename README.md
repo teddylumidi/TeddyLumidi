@@ -46,7 +46,7 @@ I am a hobbist interested in life long continous tech journey
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/teddylumidi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://support.discord.com/hc/en-us/profiles/6392894313623/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href="https://[support.discord.com/hc/en-us/profiles/6392894313623/](https://discord.com/channels/@me)"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 
 
