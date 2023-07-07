@@ -9,7 +9,8 @@ I am a hobbist interested in life long continous tech journey
 📝 I regularly write articles on my [blogs][2].
 
 [1]: https://teddylumidi.github.io/personal_portfolio-develop
-[2]: https://bio.link/teddylumidi  <br/>
+[2]: https://bio.link/teddylumidi
+
 
 **⚡ Hobby: Coding, Traveling, Vlogging, Researching **<br/>
 📫 How to reach me: lumiditeddy@gmail.com<br/>
