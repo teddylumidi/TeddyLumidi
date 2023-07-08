@@ -1,4 +1,4 @@
-### Yo 👋, I am Teddy Lumidi. <a href="https://bio.link/teddylumidi" target="_blank">Teddy Lumidi</a>.<br/>
+### Yo 👋, I am <a href="https://bio.link/teddylumidi" target="_blank">Teddy Lumidi</a>.<br/>
 I am a hobbist interested in life long continous tech journey
 <h3 align="center"> 👨‍💻 Web Developer 🤖 AI Specialist ✍️ Technical Writer </h3>
 <br/>
