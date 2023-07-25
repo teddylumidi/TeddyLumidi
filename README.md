@@ -29,9 +29,7 @@ I am a hobbist interested in life long continous tech journey
 </p>
 
 ### My GitHub stats
-<!-- My GitHub stats -->
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" >
-<img alt="teddylumidi's github stats" src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&count_private=true&line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide_title=true&hide_border=true&include_all_commits=true&hide=prs,issues,contribs&cache_seconds=1800&theme=radical&custom_title=teddylumidi's%20GitHub%20Stats&hide_rank=true&token=${PAT_1}">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="teddylumidi's github stats" src="https://github-readme-stats.vercel.app/api?username=teddylumidi&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
 <br/>
 <br/>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
