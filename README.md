@@ -4,7 +4,7 @@ I am a hobbist interested in life long continous tech journey
 <br/>
 🔭 Creator, Designer and Developer <br/>
 **🌱 I’m currently learning Prompts<br/>
-👨‍💻 All of my projects are available <a href="[https://teddylumidi.github.io/portfolio](https://teddylumidi.netlify.app/)" target="_blank">here</a>. <br>
+👨‍💻 All of my projects are available <a href="https://teddylumidi.netlify.app/" target="_blank">here</a>. <br>
 📝 I regularly write articles on my <a href="https://bio.link/teddylumidi" target="_blank">blogs</a>.
 
 
