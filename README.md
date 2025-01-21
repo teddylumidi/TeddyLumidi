@@ -1,4 +1,4 @@
-<div style="background-image: url('https://github.com/teddylumidi/TeddyLumidi/raw/master/istockphoto-913588258-612x612.jpg'); background-size: cover; padding: 20px;">
+<div style="background-image: url(['https://github.com/teddylumidi/TeddyLumidi/raw/master/istockphoto-913588258-612x612.jpg'](https://www.vectorstock.com/royalty-free-vector/seamless-background-on-a-theme-of-africa-vector-9187641)); background-size: cover; padding: 20px;">
   ### Yo 👋, I am <a href="https://bio.link/teddylumidi" target="_blank">Teddy Lumidi</a>.<br/>
   I am a hobbist interested in life long continous tech journey
   <h3 align="center"> 👨‍💻 Web Developer 🤖 AI Specialist ✍️ Technical Writer 👨🏿‍🔬 Data Scientist </h3>
