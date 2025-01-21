@@ -52,11 +52,6 @@ I am a hobbyist interested in a lifelong continuous tech journey.
   <img src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
 </p>
 
-<p align="center">
-  <!-- Additional Trophies to Chase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=teddylumidi&theme=flat&row=2&column=4&margin-w=15&margin-h=15" alt="More GitHub Trophies" />
-</p>
-
 ---
 
 > **Note:** "Top languages" is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
