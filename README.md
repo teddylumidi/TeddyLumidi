@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/teddylumidi/TeddyLumidi/raw/master/istockphoto-913588258-612x612.jpg" width="100%">
-</p>
 
 # Yo 👋, I am [Teddy Lumidi](https://bio.link/teddylumidi)
 
