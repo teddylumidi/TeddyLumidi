@@ -1,4 +1,4 @@
-<div style="background-image: url('URL_OF_YOUR_IMAGE'); background-size: cover; padding: 20px;">
+<div style="background-image: url('https://github.com/teddylumidi/TeddyLumidi/blob/master/istockphoto-913588258-612x612.jpg'); background-size: cover; padding: 20px;">
   ### Yo 👋, I am <a href="https://bio.link/teddylumidi" target="_blank">Teddy Lumidi</a>.<br/>
   I am a hobbist interested in life long continous tech journey
   <h3 align="center"> 👨‍💻 Web Developer 🤖 AI Specialist ✍️ Technical Writer 👨🏿‍🔬 Data Scientist </h3>
