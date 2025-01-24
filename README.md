@@ -39,11 +39,6 @@ I am a hobbyist interested in a lifelong continuous tech journey.
 
 ---
 
-## 📫 How to reach me  
-[![Email](https://img.shields.io/badge/Email-lumiditeddy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lumiditeddy@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Teddy_Lumidi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/teddylumidi)  
-[![Twitter](https://img.shields.io/badge/Twitter-@teddylumidi-blue?style=for-the-badge&logo=twitter)](https://twitter.com/teddylumidi)  
-
 🤔 I’m looking for help with **Open Source Projects**  
 💬 Ask me about **Web Development and Data Science**  
 👯⚡ I’m here to learn something new **every day**  
@@ -68,3 +63,7 @@ I am a hobbyist interested in a lifelong continuous tech journey.
 > **Note:** "Top languages" is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
 ---
+## 📫 How to reach me  
+[![Email](https://img.shields.io/badge/Email-lumiditeddy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lumiditeddy@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Teddy_Lumidi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/teddylumidi)  
+[![Twitter](https://img.shields.io/badge/Twitter-@teddylumidi-blue?style=for-the-badge&logo=twitter)](https://twitter.com/teddylumidi)  
