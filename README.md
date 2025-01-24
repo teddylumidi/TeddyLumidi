@@ -6,6 +6,24 @@ I am a hobbyist interested in a lifelong continuous tech journey.
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Trophies" style="max-width: 100%; height: auto;">
+</p>
+
+---
+
+## ❤ Views and Followers  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=teddylumidi&color=blue" alt="Profile Views">
+  <a href="https://github.com/teddylumidi?tab=followers">
+    <img src="https://img.shields.io/github/followers/teddylumidi?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
+
+---
+
 ## 🔭 Creator, Designer, and Developer  
 - 🌱 I’m currently learning **Prompt Engineering**  
 - 👨‍💻 All of my projects are available [here](https://teddylumidi.netlify.app/)  
@@ -47,22 +65,6 @@ I am a hobbyist interested in a lifelong continuous tech journey.
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
-</p>
-
----
-
 > **Note:** "Top languages" is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
 ---
-
-## ❤ Views and Followers  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teddylumidi&color=blue" alt="Profile Views">
-  <a href="https://github.com/teddylumidi?tab=followers">
-    <img src="https://img.shields.io/github/followers/teddylumidi?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
