@@ -2,7 +2,7 @@
 
 I am a hobbyist interested in a lifelong continuous tech journey.
 
-<h3 align="center">👨‍💻 Web Developer 🤖 AI Specialist ✍️ Technical Writer 👨🏿‍🔬 Data Scientist</h3>
+<h3 align="center">👨‍💻 Hobbyist</h3>
 
 ---
 
