@@ -25,9 +25,9 @@ I am a hobbyist interested in a lifelong continuous tech journey.
 ---
 
 ## 🔭 Creator, Designer, and Developer  
-- 🌱 I’m currently learning **Prompt Engineering**  
-- 👨‍💻 All of my projects are available [here](https://teddylumidi.netlify.app/)  
-- 📝 I regularly write articles on my [blogs](https://bio.link/teddylumidi)  
+- 🌱 
+- 👨‍💻
+- 📝
 
 ---
 
