@@ -21,15 +21,13 @@ I am a hobbyist interested in a lifelong continuous tech journey.
     <img src="https://img.shields.io/github/followers/teddylumidi?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
----
+
 🔭 Creator, Designer, and Developer  
----
 ## ⚡ Hobbies
 - 🚀 Coding  
 - 🌍 Traveling  
 - 🎥 Vlogging  
 - 🔍 Researching  
----
 
 🤔 I’m looking for help with **Open Source Projects**  
 💬 Ask me about **Web Development and Data Science**  
