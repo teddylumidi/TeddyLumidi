@@ -22,7 +22,7 @@ I am a hobbyist interested in a lifelong continuous tech journey.
   </a>
 </p>
 ---
-## 🔭 Creator, Designer, and Developer  
+🔭 Creator, Designer, and Developer  
 ---
 ## ⚡ Hobbies
 - 🚀 Coding  
