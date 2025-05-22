@@ -33,5 +33,4 @@ We're All Nerds and Geeks Now.
 ---
 ## 📫 How to reach me  
 [![Email](https://img.shields.io/badge/Email-lumiditeddy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lumiditeddy@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Teddy_Lumidi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/teddylumidi)  
 [![Twitter](https://img.shields.io/badge/Twitter-@teddylumidi-blue?style=for-the-badge&logo=twitter)](https://twitter.com/teddylumidi)  
