@@ -22,19 +22,6 @@ I am a hobbyist interested in a lifelong continuous tech journey.
   </a>
 </p>
 
-🔭 Creator, Designer, and Developer  
-## ⚡ Hobbies
-- 🚀 Coding  
-- 🌍 Traveling  
-- 🎥 Vlogging  
-- 🔍 Researching  
-
-🤔 I’m looking for help with **Open Source Projects**  
-💬 Ask me about **Web Development and Data Science**  
-👯⚡ I’m here to learn something new **every day**  
-
----
-
 ## 📊 My GitHub Stats  
 
 <table>
