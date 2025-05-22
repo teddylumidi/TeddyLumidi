@@ -13,15 +13,6 @@ I am a hobbyist interested in a lifelong continuous tech journey.
 
 ---
 
-## ❤ Views and Followers  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teddylumidi&color=blue" alt="Profile Views">
-  <a href="https://github.com/teddylumidi?tab=followers">
-    <img src="https://img.shields.io/github/followers/teddylumidi?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
 ## 📊 My GitHub Stats  
 
 <table>
