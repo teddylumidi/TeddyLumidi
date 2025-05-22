@@ -1,8 +1,8 @@
 # Yo 👋, I am [Teddy Lumidi](https://bio.link/teddylumidi)
 
-I am a hobbyist interested in a lifelong continuous tech journey.
+We're All Nerds and Geeks Now.
 
-<h3 align="center">👨‍💻 Hobbyist</h3>
+<h3 align="center">👨‍💻 Futurologist</h3>
 
 ---
 
