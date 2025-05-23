@@ -1,6 +1,6 @@
 # Yo 👋, I am [Teddy Lumidi](https://bio.link/teddylumidi)
 
-We're All Nerds and Geeks Now.
+We're All Nerds and Geeks Now. Thanks to AI
 
 <h3 align="center">👨‍💻 Futurologist</h3>
 
