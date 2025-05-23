@@ -26,11 +26,6 @@ We're All Nerds and Geeks Now.
   </tr>
 </table>
 
----
-
-> **Note:** "Top languages" is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
-
----
 ## 📫 How to reach me  
 [![Email](https://img.shields.io/badge/Email-lumiditeddy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lumiditeddy@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-@teddylumidi-blue?style=for-the-badge&logo=twitter)](https://twitter.com/teddylumidi)  
