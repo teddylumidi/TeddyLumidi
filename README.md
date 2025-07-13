@@ -15,8 +15,14 @@
 - 👨‍💻 Full-stack developer building digital solutions across the globe  
 - 🌍 Based in Kisumu, Kenya  
 - 🔭 Exploring how AI reshapes society, business, and creative work  
-- 🛠️ Obsessed with transforming complex ideas into seamless user experiences  
-- ✨ Passionate about open source, innovation, and inspiring others  
+- 🛠️ Transforming complex ideas into seamless user experiences  
+- ✨ Passionate about open source, innovation, and lifelong learning  
+
+<p align="center">
+  <a href="https://app.daily.dev/teddylumidi">
+    <img src="https://api.daily.dev/devcards/v2/n3XchllpnQ3bdzexUhRfN.png?type=default&r=s2u" width="356" alt="Teddy Lumidi's Dev Card"/>
+  </a>
+</p>
 
 ---
 
