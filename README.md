@@ -1,10 +1,24 @@
-# Yo 👋, I am Teddy Lumidi.
+<table>
+<tr>
+<td valign="top">
 
-> *“We're All Nerds and Geeks Now. Thanks to AI.”*
+<h1>Yo 👋, I am Teddy Lumidi.</h1>
 
----
+<blockquote><em>“We're All Nerds and Geeks Now. Thanks to AI.”</em></blockquote>
 
 <h3 align="center">👨‍💻 Futurologist | Designer | Developer | Analyst | Researcher | IT Technician</h3>
+
+</td>
+
+<td valign="top">
+
+<a href="https://app.daily.dev/teddylumidi">
+  <img src="https://api.daily.dev/devcards/v2/n3XchllpnQ3bdzexUhRfN.png?type=default&r=s2u" width="356" alt="Teddy Lumidi's Dev Card"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -17,6 +31,7 @@
 - 🔭 Exploring how AI reshapes society, business, and creative work  
 - 🛠️ Transforming complex ideas into seamless user experiences  
 - ✨ Passionate about open source, innovation, and lifelong learning  
+ 
 
 <p align="center">
   <a href="https://app.daily.dev/teddylumidi">
