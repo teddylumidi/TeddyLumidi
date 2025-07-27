@@ -4,10 +4,6 @@
 
 ---
 
-<h3 align="center">👨‍💻 Futurologist | Designer | Developer | Analyst | Researcher | IT Technician</h3>
-
----
-
 ## 🚀 About Me
 
 💡 **I thrive at the intersection of technology, design, and the future.**
