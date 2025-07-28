@@ -16,41 +16,35 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=teddylumidi&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Trophies" />
 </p>
 
----
-
-## 📊 My GitHub Stats
-
+📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Pie" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=bar&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Vertical Bar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=bar&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Vertical Bar" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=pie&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=8" alt="Most Used Languages - Donut/Pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=pie&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=8" alt="Most Used Languages - Pie" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddylumidi&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streaks" />
+  <img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dteddylumidi%26theme%3Dblack-ice%26hide_border%3Dtrue%26stroke%3Dffffff%26ring%3Dffffff%26fire%3Dffffff%26currStreakLabel%3Dffffff" alt="GitHub Streaks" />
 </p>
-
----
 
 ## 💬 Connect With Me
 
