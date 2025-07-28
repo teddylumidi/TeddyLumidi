@@ -22,17 +22,7 @@
 </p>
 
 📊 My GitHub Stats
-<td align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
-</td>
-
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Pie" />
-</td>
-
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
-</td>
+<table>   <tr>     <td align="center">       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />     </td>     <td align="center">       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Pie" />     </td>   </tr> </table> <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" /> </p>
 
 ## 💬 Connect With Me
 
