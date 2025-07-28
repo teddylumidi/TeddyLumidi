@@ -27,10 +27,6 @@
 </td>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Compact" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Pie" />
 </p>
 
