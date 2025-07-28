@@ -35,11 +35,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dteddylumidi%26theme%3Dblack-ice%26hide_border%3Dtrue%26stroke%3Dffffff%26ring%3Dffffff%26fire%3Dffffff%26currStreakLabel%3Dffffff" alt="GitHub Streaks" />
-</p>
-
 ## 💬 Connect With Me
 
 Let’s connect, collaborate, or talk tech and the future:
