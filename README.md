@@ -22,6 +22,10 @@
 </p>
 
 📊 My GitHub Stats
+<td align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
+</td>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Compact" />
 </p>
