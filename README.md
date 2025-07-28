@@ -13,7 +13,7 @@
 - 🔭 Exploring how AI reshapes society, business, and creative work  
 - 🛠️ Transforming complex ideas into seamless user experiences  
 - ✨ Passionate about open source, innovation, and lifelong learning
-  
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -36,6 +36,24 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 Bar Charts (Vertical)
+
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Repos','Commits','Issues','Pull Requests'],datasets:[{label:'Activity',data:[40,150,30,20]}]},options:{title:{display:true,text:'GitHub Activity - Vertical Bar Chart'}}}" alt="Vertical Bar Chart" width="100%"/>
+
+---
+
+### 📊 Bar Charts (Horizontal)
+
+<img src="https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['Repos','Commits','Issues','Pull Requests'],datasets:[{label:'Activity',data:[40,150,30,20]}]},options:{title:{display:true,text:'GitHub Activity - Horizontal Bar Chart'}}}" alt="Horizontal Bar Chart" width="100%"/>
+
+---
+
+### 🍩 Donut / Pie Charts
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['JavaScript','Python','HTML','CSS'],datasets:[{data:[40,30,20,10]}]},options:{title:{display:true,text:'Languages Used (Donut Chart)'}}}" alt="Donut Chart" width="100%"/>
 
 ---
 
