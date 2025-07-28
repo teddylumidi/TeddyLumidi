@@ -31,19 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Pie" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=bar&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages - Vertical Bar" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=pie&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=8" alt="Most Used Languages - Donut/Pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages" />
 </p>
 
 <p align="center">
