@@ -26,27 +26,16 @@
 
 ## 📊 My GitHub Stats
 
-<table>
-<tr>
-<td align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
-</td>
-<td align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
-
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['JavaScript','Python','HTML','CSS','TypeScript'],datasets:[{label:'Usage (%)',data:[35,25,20,15,5],backgroundColor:'rgba(0,128,0,0.7)'}]},options:{legend:{display:false},scales:{yAxes:[{ticks:{beginAtZero:true}}]},title:{display:true,text:'Most Used Languages'}}}" alt="Most Used Languages Bar" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teddylumidi&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['JavaScript','Python','HTML','CSS','TypeScript'],datasets:[{label:'Usage (%)',data:[35,25,20,15,5],backgroundColor:'rgba(0,128,128,0.7)'}]},options:{legend:{display:false},title:{display:true,text:'Languages by Usage Volume'}}}" alt="Languages by Usage" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddylumidi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['JavaScript','Python','HTML','CSS','TypeScript'],datasets:[{data:[35,25,20,15,5],backgroundColor:['#f1e05a','#3572A5','#e34c26','#563d7c','#2b7489']}]},options:{title:{display:true,text:'Language Distribution'}}}" alt="Language Distribution" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddylumidi&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streaks" />
 </p>
 
 ---
@@ -57,4 +46,3 @@ Let’s connect, collaborate, or talk tech and the future:
 
 [![Email](https://img.shields.io/badge/Email-lumiditeddy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lumiditeddy@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-@teddylumidi-blue?style=for-the-badge&logo=twitter)](https://twitter.com/teddylumidi)
-
